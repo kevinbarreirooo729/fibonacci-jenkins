@@ -13,4 +13,3 @@ do
     a=$b
     b=$fn
 done
-Footer
